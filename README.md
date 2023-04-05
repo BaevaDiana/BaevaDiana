@@ -3,11 +3,8 @@
   Hello, World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="https://twitter.com/Diavell_b?t=VpFFkso2uBOBFsd4rQIm1Q&s=35">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=BaevaDiana&style=flat-square&color=blue" alt=""/>
 </div>
@@ -35,3 +32,17 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" **alt="RStudio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/> 
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BaevaDiana&theme=light&background=ffffff)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaevaDiana&layout=compact)](https://github.com/BaevaDiana/github-readme-stats)
+
+![BaevaDiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaevaDiana&theme=cobalt&show_icons=true)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Diavell_b?t=VpFFkso2uBOBFsd4rQIm1Q&s=35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+</p>
