@@ -24,7 +24,7 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   <a href="https://www.r-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <a href="https://www.ruby-lang.org/ru/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <a href="https://github.com/BaevaDiana" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
- <a href="https://www.gitlab.com/" target="_blank"><img src="https://github.com/devicons/devicon/tree/master/icons/gitlab" title="GitLab" **alt="Oracle" width="40" height="40"/> 
+ <a href="https://www.gitlab.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="Oracle" width="40" height="40"/> 
    <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <a href="https://www.jetbrains.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" **alt="Jetbrains" width="40" height="40"/>
    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Webstorm" **alt="Webstorm" width="40" height="40"/>
