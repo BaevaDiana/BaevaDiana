@@ -43,9 +43,3 @@ My name is Baeva Diana and I'm a student <img src="https://media.giphy.com/media
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaevaDiana)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaevaDiana)
 
-![BaevaDiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaevaDiana&theme=cobalt&show_icons=true)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Diavell_b?t=VpFFkso2uBOBFsd4rQIm1Q&s=35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-</p>
