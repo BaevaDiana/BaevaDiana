@@ -14,9 +14,8 @@ My name is Baeva Diana and I'm a student <img src="https://media.giphy.com/media
 ---
 <div id="badges">
   <a href="https://vk.com/diavell_baeva">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Vkontakte-003f5c?style=for-the-badge&logo=Vk&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Diavell_b?t=VpFFkso2uBOBFsd4rQIm1Q&s=35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 </div>
 
 
