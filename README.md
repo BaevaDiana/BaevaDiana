@@ -16,14 +16,9 @@ My name is Baeva Diana and I'm a student <img src="https://media.giphy.com/media
   <a href="https://vk.com/diavell_baeva">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <a href="https://twitter.com/Diavell_b?t=VpFFkso2uBOBFsd4rQIm1Q&s=35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 </div>
----
+
 
 ### :fire: My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaevaDiana)
