@@ -45,5 +45,3 @@ My name is Baeva Diana and I'm a student <img src="https://media.giphy.com/media
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaevaDiana)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaevaDiana)
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
