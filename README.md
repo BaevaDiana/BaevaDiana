@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me :
 My name is Baeva Diana and I'm a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Krasnodar.
 ---
-<div id="badges">
+<div id="header" align="center">
   <a href="https://vk.com/diavell_baeva">
     <img src="https://img.shields.io/badge/Vkontakte-003f5c?style=for-the-badge&logo=Vk&logoColor=white"/>
   </a>
