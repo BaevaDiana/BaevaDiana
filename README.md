@@ -38,9 +38,10 @@ My name is Baeva Diana and I'm a student <img src="https://media.giphy.com/media
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BaevaDiana&theme=light&background=ffffff)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaevaDiana)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaevaDiana&layout=compact)](https://github.com/BaevaDiana/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaevaDiana)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaevaDiana)
 
 ![BaevaDiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaevaDiana&theme=cobalt&show_icons=true)
 
