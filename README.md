@@ -22,7 +22,7 @@ My name is Baeva Diana and I'm a student <img src="https://media.giphy.com/media
 ### :fire: My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaevaDiana)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaevaDiana)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BaevaDiana)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaevaDiana)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaevaDiana)
